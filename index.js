@@ -1,6 +1,6 @@
 var cat = require('./cat')
 
-var tom = new cat('Tommy')
+var mickey = new cat('Mickey')
 
 
 console.log(tom.name)
